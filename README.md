@@ -14,3 +14,5 @@ Al tickets must have the following properties:
    the ability to construct a ticket by number;
    the ability to ask for a ticket’s price;
    the ability to print a ticket as a String.
+
+The program should use the pattern decorator.
