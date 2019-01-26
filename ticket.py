@@ -1,3 +1,5 @@
+"""Program by @CatSonbenim (Lisa Bulala) 24.10.2018"""
+
 from datetime import datetime as dt
 
 
